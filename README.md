@@ -60,7 +60,7 @@ Windows 8 application looks like below and works with Windows 8.1 Operating Syst
 
 11.	 Congratulations your azure mobile service is up and running. Now we can move to windows store application development.
  
-Editing Universal Windows Store Application
+<b>Editing Universal Windows Store Application</b><br>
 
 12.	Open the noise level meter universal application solution from here. Go to shared folder and open “App.xaml.cs” file
 
